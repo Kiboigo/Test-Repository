@@ -1,12 +1,17 @@
-class person{
+class person {
 
-    public static void main(){
+    public static void main() {
         System.out.println("hello");
     }
 
-    void eat(){
+    void eat() {
         //
         System.out.println("eating");
+    }
+
+    void speak() {
+        //
+        System.out.println("speaking");
     }
 
 }
